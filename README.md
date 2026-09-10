@@ -1,3 +1,7 @@
 # inclass1v3-eduardo
+## Team Roster — In-Class 1 v3
 
-Question 1: Widget Tree. Draw or describe the widget tree of your In-Class 01b app, at least four levels deep. If a future employer asked you to add a fifth tab, which single node in your tree would you need to change first, and why does that node "own" the number of tabs?
+| Member | GitHub Username | Contribution |
+|---|---|---|
+| Eduardo Leon | @eleon3-1 | I did 1-2. Fixed grammer , looked over 3-4, |
+| Cuong Mai | @CuongVMai | He did 3-4, Fixed grammer , Looked over 1-2, Verified all contents were there |
